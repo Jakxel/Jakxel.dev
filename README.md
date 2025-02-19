@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Jakxel12
+# 👋 Hi, I’m @Jakxel.dev
 
 ## 👀 Interests
 I am seeking opportunities to work in a foreign and competitive environment that will facilitate the growth and development of my skills in software development and other areas of my professional career.
@@ -28,7 +28,7 @@ Stucture Format:
 - **Instagram**: [_jakxel](https://instagram.com/_jakxel)
 - **X (formerly Twitter)**: [@Henqsu](https://twitter.com/Henqsu)
 - **TikTok**: [@imjakxel](https://tiktok.com/@imjakxel)
-- **GitHub**: [Jakxel12](https://github.com/Jakxel12)
+- **GitHub**: [Jakxel.dev](https://github.com/Jakxel.dev)
 
 ## 🌱 Currently Learning
 ### Code Languages:
