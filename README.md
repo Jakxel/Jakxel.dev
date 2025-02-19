@@ -28,7 +28,7 @@ Stucture Format:
 - **Instagram**: [_jakxel](https://instagram.com/_jakxel)
 - **X (formerly Twitter)**: [@Henqsu](https://twitter.com/Henqsu)
 - **TikTok**: [@imjakxel](https://tiktok.com/@imjakxel)
-- **GitHub**: [Jakxel.dev](https://github.com/Jakxel.dev)
+- **GitHub**: [Jakxel.dev](https://github.com/Jakxel)
 
 ## 🌱 Currently Learning
 ### Code Languages:
